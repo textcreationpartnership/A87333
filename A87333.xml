@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the whole proceedings of the Parliament in Ireland, beginning March 25, 1689, and ending the 29th of June following; : with the establishment of their forces there.</title>
+            <author>Ireland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87333</idno>
+            <idno type="STC">Wing I654C</idno>
+            <idno type="STC">ESTC R178711</idno>
+            <idno type="EEBO-CITATION">43077513</idno>
+            <idno type="OCLC">ocm 43077513</idno>
+            <idno type="VID">151578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151578)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2265:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the whole proceedings of the Parliament in Ireland, beginning March 25, 1689, and ending the 29th of June following; : with the establishment of their forces there.</title>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 3-10, 3-8, 11-20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell, at the Peacock in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and Entred according to Order."</note>
+                  <note>"The journals of the House of Lords" : p. 3-8 following p. 10. "A letter from Dublin" : p. 13-20.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Legislative journals --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1688-1689 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151578:1"/>
+            <p>A TRUE ACCOUNT OF THE WHOLE PROCEEDINGS OF THE PARLIAMENT IN IRELAND, BEGINNING
+<hi>March</hi> 25, 1689, and ending the 29th of <hi>June</hi> fol<g ref="char:EOLhyphen"/>lowing; with the Eſtabliſhment of their For<g ref="char:EOLhyphen"/>ces there.</p>
+            <p>Licenſed and Entred according to Order.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Clavell,</hi> at the Peacock in St. <hi>Paul's</hi> Church-Yard. MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151578:2"/>
+            <pb n="3" facs="tcp:151578:2"/>
+            <head>THE JOURNAL OF THE PARLIAMENT IN <hi>IRELAND,</hi> &amp;c.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>MARCH</hi> 25. 1689.</date>
+               </dateline>
+            </opener>
+            <p>A Proclamation iſſued out for a Parliament to be held in <hi>Dublin, May</hi> 7. no Popiſh Biſhops ſum<g ref="char:EOLhyphen"/>moned.</p>
+            <p>
+               <hi>May</hi> 7. Parliament met in the Inns: Some Lords intro<g ref="char:EOLhyphen"/>duced; Biſhop of <hi>Meath</hi> and <hi>Cork</hi> amongſt the reſt; the King enters with Robes and Crown; makes a Speech: Chancellor bids the Commons chuſe a Speaker; they go to their Houſe, and having choſen Sir <hi>Richard Nagle,</hi> pre<g ref="char:EOLhyphen"/>ſent him within half an hour; he is accepted; Houſe ad<g ref="char:EOLhyphen"/>journs till Ten in the Morning: two Lords called by Writ Chancellor, Lord <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Nugent,</hi> Lord <hi>Riverſtown.</hi>
+            </p>
+            <p>
+               <hi>May</hi> 8. Biſhop of <hi>Story</hi> introduced. Addreſs of Thanks to the King, and Abhorrence voted. A Committee appoint<g ref="char:EOLhyphen"/>ed to draw it up. A Meſſage to the Commons for their concurrence.</p>
+            <p>The King comes into the Houſe, appoints Four in the Afternoon for both Houſes to attend him with it: A Bill brought into the Houſe by C. J. <hi>Nugent,</hi> and read twice, <hi>Rege preſent.</hi> Containing a Recognition of the King's Ti<g ref="char:EOLhyphen"/>tle, and an Abhorrence of the P. of O's Uſurpation, and of
+<pb n="4" facs="tcp:151578:3"/>the defection of the <hi>Engliſh;</hi> ordered after to be ingrol<g ref="char:EOLhyphen"/>ſed: Committees of Grievances and Petitions appointed: Houſe adjourned till <hi>Friday</hi> morning.</p>
+            <p>
+               <hi>May</hi> 10. King comes into the Houſe, and ſtays there all the Seſſion: Bill of Recognition, <hi>&amp;c.</hi> read the third time; ſent down to the Commons by two Judges, who report the delivery of it: A Bill brought in by C. J. <hi>Nu<g ref="char:EOLhyphen"/>gent</hi> for incouraging Trade, by inviting Strangers into the Kingdom, taking only the Oath of Fidelity, read once. The King directs the Houſe in the Methods of proceed<g ref="char:EOLhyphen"/>ing; adjourned to Ten next day: At Four afternoon Com<g ref="char:EOLhyphen"/>mittee of Petitions and Trade ſate; a Petition preferred by <hi>Nangle</hi> againſt <hi>Gerard Borre,</hi> 
+               <abbr>Eſq</abbr> for Perquiſites of the Clerk of Parliament; <hi>Borre</hi> ordered to appear <hi>Monday</hi> fol<g ref="char:EOLhyphen"/>lowing at Four in the Afternoon.</p>
+            <p>
+               <hi>May</hi> 11. Biſhop of <hi>Limerick</hi> introduced: Houſe ordered to attend the King in their Robes, which they did: The Orders of the Houſe read: Bill for Trade read the ſecond time, and commited: Bill of Recognition brought into the Houſe from the Commons; at Eleven the King comes, to the Houſe in his Robes, and paſſes the Bill; the King goes out. 'Tis diſputed, whether the Seſſion was not diſ<g ref="char:EOLhyphen"/>continued by paſſing the Bill; moved to refer it to the Judges by the Biſhop of <hi>Meath;</hi> over-ruled, and reſolved in the Negative. Adjourned till <hi>Munday.</hi>
+            </p>
+            <p>
+               <hi>May</hi> 13. A Bill brought into the Houſe by C. J. <hi>Nu<g ref="char:EOLhyphen"/>gent</hi> for altering the <hi>Act of Settlement,</hi> read once, and motion made for the ſecond reading; but rejected. The King preſent at Four in the Afternoon; the Committee of Petitions and Privileges ſate; <hi>Borres</hi> Anſwer put in, and <hi>Nangle</hi> ordered to reply. Lord <hi>Brittas</hi>'s Petition concern<g ref="char:EOLhyphen"/>ing his Arreſt 18 years ago, read; <hi>Affidavit</hi> ordered to be made, and on the <hi>Affidavit</hi> the Party to be committed to the Black Rod.</p>
+            <pb n="5" facs="tcp:151578:3"/>
+            <p>
+               <hi>May</hi> 14. The Peers names called; Licenſe of abſence granted, and Proxies admitted: Two Bills brought up by the Commons, and read once; one for recalling all Grants of Civil Offices from the King, during Life or Good be<g ref="char:EOLhyphen"/>haviour: Another againſt Writs of Error, and Appeal in<g ref="char:EOLhyphen"/>to <hi>England;</hi> and that an Act of Parliament in <hi>England</hi> ſhall not bind <hi>Ireland.</hi> King preſent all the while.</p>
+            <p>
+               <hi>May</hi> 15. Earl of <hi>Weſtmeath</hi> introduced Bill for vacating Offices, <hi>&amp;c.</hi> read ſecond time, and committed; Speaker quits the Chair: Chief Juſtice <hi>Nugent</hi> called up by the King to be Chair-man; the Biſhop of <hi>Meath</hi> againſt it for two Reaſons; <hi>1ſt,</hi> Becauſe able Officers might be turned out without fault. <hi>2d,</hi> It was unjuſt to turn men out of Freehold without tryal or compenſation; the Lord Chancel<g ref="char:EOLhyphen"/>lor for it, becauſe to the King's prejudice to grant them: the Houſe reaſſumed, and the Bill read a third time; at every Sentence the Clerk ſtopt, and the Speaker asks the Houſe, Shall it paſs without amendment? It was put to the vote; all conſent but the Biſhop of <hi>Meath,</hi> who deſired to proteſt, but was denyed, becauſe he offered it too late; <hi>viz.</hi> after the Votes were paſt; King preſent all along.</p>
+            <p>
+               <hi>May</hi> 16. Ch. Juſt. <hi>Nugent</hi> reports the Alterations made in the Bill of Trade: The Bill againſt Writs of Error, <hi>&amp;c.</hi> read the Second time, and committed: Speaker quits his place; Chief Juſtice <hi>Nugent</hi> aſſumes it: Biſhop of <hi>Meath</hi> argues againſt it, becauſe againſt his Oath of Supremacy to the King; becauſe prejudicial to the King and King<g ref="char:EOLhyphen"/>dom; robbing the King of his Prerogative, and the Sub<g ref="char:EOLhyphen"/>ject of the Liberty of appealing to the King in perſon: He deſires a Clauſe in the latter end for ſaving all Writs of Error, and Appeals now depending in <hi>England:</hi> The Lord Chancellor for the Bill, argues from the Eaſe and Benefit of the Subject. The Houſe reaſſumed the Bill, read <hi>ſeri<g ref="char:EOLhyphen"/>atim,</hi> as the other before; after that, put to the vote; all conſent: The King preſent at all the Debates. A Bill
+<pb n="6" facs="tcp:151578:4"/>read once, making it Treaſon to bring in Counterfeit Foreign Coin into the Kingdom; referred to the Com<g ref="char:EOLhyphen"/>mittee. A Petition preferred about Butter-Casks, and referred. At Four in the Afternoon the Committee ſits, and refers the Bill about Money to the Judges; and that about Casks to the Committee of Trade.</p>
+            <p>
+               <hi>May</hi> 17. The Bill about Trade read twice, and paſſed <hi>nemine contradicente:</hi> Lord Primate's Summons and Proxy granted to the Biſhop of <hi>Meath,</hi> read and allowed: obje<g ref="char:EOLhyphen"/>cted, That the Proxy ſhould be introduced, not allowed, becauſe the Primate did not appear; but it was carried in the Negative, and preſidents were cited for it.</p>
+            <p>
+               <hi>May</hi> 18. Journals of the laſt day read: A Petition for the relief of ſome poor Priſoners, read, and referred to the Committee.</p>
+            <p>
+               <hi>May</hi> 20. Journals of the Houſe read; Lord <hi>Dillon</hi> in<g ref="char:EOLhyphen"/>troduced.</p>
+            <p>
+               <hi>May</hi> 21. Earl of <hi>Barrymore</hi>'s Proxy granted to the Lord <hi>Granard,</hi> allowed, but not read: Lord <hi>Dunſany</hi>'s Proxy allowed.</p>
+            <p>
+               <hi>May</hi> 22. Lord <hi>Trimneſtown,</hi> and Lord <hi>Kilmahar</hi> intro<g ref="char:EOLhyphen"/>duced. Motion made by Biſhop of <hi>Meath</hi> againſt the Sheriffs of <hi>Dublin</hi> for quartering an Officer upon him; Ordered, That no Peer ſhould be quartered on; and that the Sheriff ſhould be committed to the Black Rod. The Bill for repealing the <hi>Acts of Settlement</hi> brought up from the Commons by Coll. <hi>Macharty,</hi> and lodged in the Houſe.</p>
+            <p>Obſerve, That nothing was done in the Houſe for four days before, becauſe the King waited for this Bill from the Commons; and that the King ſent frequently for it; the Black Rod having called to the Houſe of Commons ſix or ſeven times this very day to ſend it up, the Lords Houſe and King ſpent the time in Diſcourſes and News.</p>
+            <p>
+               <hi>May</hi> 23. Journals of laſt day read. The Bill from the Commons lodged yeſterday, read this day once: Motion
+<pb n="7" facs="tcp:151578:4"/>made to have it read again in the Afternoon, but rejected: Biſhop of <hi>Meath</hi> moves, That the Lords Bill might have Precedence of it in reading, or at leaſt, that both might be committed: The firſt rejected, the latter granted: The Commons Bill ordered to be read next morning.</p>
+            <p>
+               <hi>May</hi> 24. Col. <hi>Macarty</hi> made Baron, <hi>Moun Caſſan</hi> intro<g ref="char:EOLhyphen"/>duced. The Commons Bill of Repeal read again, and committed to the whole Houſe; moved the Lords Bill of Repeal might be read and committed; but denied. Se<g ref="char:EOLhyphen"/>veral Petitions read, put in by Perſons concerned under the Acts; all referred, except Capt. <hi>Kelly</hi>'s.</p>
+            <p>
+               <hi>May</hi> 25. Bill about counterfeit Foreign Coin amended, and read the Third time: Controverſie between <hi>Trimne<g ref="char:EOLhyphen"/>ſtown</hi> and <hi>Dunſany</hi> about Precedencies, Reported by the Committee, adjudged to <hi>Trimneſtown,</hi> becauſe it was ſo in 1634; with a ſaving to <hi>Dunſany,</hi> if he can ſhew a better Right. Several Petitions read, preferred by Perſons con<g ref="char:EOLhyphen"/>cerned under the Acts of Settlement and Explanation, and by others for Remainders: One by Lord <hi>Clan Meleera,</hi> to be relieved againſt the Sale of his Eſtate to Sir <hi>Patrick Trant.</hi>
+            </p>
+            <p>
+               <hi>May</hi> 27. Several Petitions read, and Counſel on them heard at the Lords Bar; <hi>viz.</hi> Lord <hi>Galways, Mathews,</hi> Lord <hi>Kingſtown</hi>'s Brothers, Sir <hi>Henry Bingham</hi>'s Brother's; the Scope of them all was, To have ſavings for their Remain<g ref="char:EOLhyphen"/>ders, and conſideration for their Improvements; referred all to the Committee of Petitions.</p>
+            <p>
+               <hi>May</hi> 28. Several Petitions read, relating to the Act of Settlement; Bill of Repeal read the ſecond time; the Houſe Adjourned during Pleaſure, and Reſolved into a Grand Committee; the Bill of Repeal read by Paragraphs; ſome Objections made, which occaſioned ſome Alterati<g ref="char:EOLhyphen"/>ons. Motion made for Adjourning till <hi>Thurſday,</hi> becauſe <hi>Wedneſday</hi> was a Holiday; the King ask'd, What Holiday? Anſwered, The Reſtoration of his Brother and Himſelf, <hi>&amp;c.</hi> he replied, The fitter to Reſtore thoſe Loyal Catholick
+<pb n="8" facs="tcp:151578:5"/>Gentlemen that had ſuffered with him, and been kept un<g ref="char:EOLhyphen"/>juſtly out of their Eſtates; the Motion rejected.</p>
+            <p>
+               <hi>May</hi> 29. Petitions read, and referred to the Committee; the Houſe Reſolved into a Grand Committee; the reſt of the Bill read by Paragraphs; Objections made; ſome over-ruled, others thought reaſonable; King offers a new Preamble to the Bill, inſtead of that which was ſent up from the Commons Houſe; Aſſented to it. Judg <hi>Daly</hi> im<g ref="char:EOLhyphen"/>peached by the Commons; at four in the Afternoon Com<g ref="char:EOLhyphen"/>mittee of Petitions ſits; Chief Juſtice <hi>Keating</hi>'s Petition read; Lord <hi>Forbes</hi>'s and Lord <hi>Galway</hi>'s adjourned to the 31ſt, becauſe the 30th was a Popiſh Holiday.</p>
+            <p>
+               <hi>May</hi> 31. Judg <hi>Daly</hi>'s Petition read and granted; Scope of it for time to anſwer the Commons Impeachments, and to have a Copy of it: Lord <hi>Galway</hi>'s heard at the Bar a<g ref="char:EOLhyphen"/>bout his Ladies Remainder in Lord <hi>Lanesborough</hi>'s Eſtate; Proviſo granted for it: Lord <hi>Riverſtown</hi> reports the Alte<g ref="char:EOLhyphen"/>rations made in the Bill of Repeal by the Committee, which were all conſented to.</p>
+            <p>
+               <hi>June</hi> 1. <hi>John Brown</hi>'s Petition read and argued at the Bar; the Chair-man Reports the Alterations and Additi<g ref="char:EOLhyphen"/>ons made to the Bill of Repeal; which are approved: Judg <hi>Daly</hi>'s Petition, deſiring a further day for an anſwer, read and granted. Mrs. <hi>Walls</hi> Bill againſt her husband read once.</p>
+            <p>
+               <hi>June</hi> 3. Petitions read, and referred to the Committee: Lord <hi>Galway</hi>'s Councel heard at the Bar, concerning his Ladies Remainder, and Arrears due to the Heirs of <hi>
+                  <g ref="char:V">Ʋ</g>lick,</hi> E. of <hi>Clanricard:</hi> Lord <hi>Riverſtown</hi> Reports from the Com<g ref="char:EOLhyphen"/>mittee ſeveral Alterations and Proviſoes to be inſerted in the Bill of Repeal; which were each twice read. Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Talbot</hi> came up with a Meſſage from the Commons, which imported their earneſt Requeſt to the Lords, to paſs the Bill with all the expedition they could, becauſe the Heart and Courage of the whole Nation were bound up in it.</p>
+            <pb n="9" facs="tcp:151578:5"/>
+            <p>
+               <hi>June</hi> 4. Journals read: Petition from the Biſhop of <hi>Cork</hi> for relief for Arrears of Rents: A Bill for Mrs. <hi>Wall</hi> againſt her Husband, read the ſecond time: Lord <hi>Riverſtown</hi> Reports new Alterations, new Proviſoes in the Bill of Repeal; the new ones read twice; the whole Bill, with all its Alterations and Proviſoes, read; after reading, the Biſhop of <hi>Meath</hi> ſpeaks againſt it, Lord Chancellor and <hi>Riverſtown</hi> for it; the Biſhops deſire leave to enter their Proteſt, and four of the Temporal Lords, which were all the Proteſtants in the Houſe. <hi>Mem.</hi> That the King ſaid, That they muſt not enter their Proteſtation, but only their Diſſent; for Proteſtation came in in Rebellious Times, and that they ſhould not give the Reaſons of their Proteſtation.</p>
+            <p>
+               <hi>June</hi> 5. The Biſhops Proteſtation. <hi>We the Lords Spiritual in Parliament Aſſembled, which Names are hereafter ſubſcribed, having for divers reaſons, then humbly offered to the Houſe of Lords, diſſented from paſſing the Bill into a Law, ſent up to this Honourable Houſe from the Houſe of Commons, Intitu<g ref="char:EOLhyphen"/>lled,</hi> An Act repealing the Acts of Settlement and Expla<g ref="char:EOLhyphen"/>nation, <hi>&amp;c. And having obtained leave from the Houſe of Lords to enter our Diſſent againſt the ſaid Bill, do accordingly ſubſcribe our Diſſent from the ſaid Bill.</hi>
+            </p>
+            <p>This was brought in Parchment to the Clerk of the Par<g ref="char:EOLhyphen"/>liament the next morning before the Houſe ſat, and ſigned, <hi>Meath, Oſſery, Cork, Limerick;</hi> the like Proteſtation in Parchment ſigned <hi>per Granard, Long ford, Roſſe, Howth.</hi>
+            </p>
+            <p>
+               <hi>I,</hi> Anthony, <hi>Biſhop of</hi> Meath, <hi>being conſtituted and allowed Proxy for the moſt Reverend Father in God</hi> Mich. <hi>Lord Archbiſhop of</hi> Armagh, <hi>do, in his name and behalf, diſſent from the ſaid Bill.</hi> Mich. Armagh.</p>
+            <p>The like ſigned by <hi>Oſſory,</hi> as <hi>Waterford</hi>'s Proxy.</p>
+            <p>Journals of the Houſe read: Lord <hi>Clanmalieras</hi>'s Caſe a<g ref="char:EOLhyphen"/>gainſt Sir <hi>Patrick Trant</hi> heard at the Bar, and adjudged againſt: The Lord <hi>Mountgarret</hi> petitions the Houſe that Sir <hi>John Ivory</hi> may commit no waſte on his Eſtate; a ge<g ref="char:EOLhyphen"/>neral
+<pb n="10" facs="tcp:151578:6"/>Order made againſt it. Committees of Trade, Pri<g ref="char:EOLhyphen"/>vileges and Petitions revived: A Committee appointed for Mrs <hi>Wall</hi>'s Bill.</p>
+            <p>
+               <hi>June</hi> 6. Journals read; Officers of the Houſe petition about introduction Fees, read, and referred to the Com<g ref="char:EOLhyphen"/>mittee: <hi>George Kellya,</hi> Conſtable, ordered to be commit<g ref="char:EOLhyphen"/>ted for his inſolence to Lord <hi>Longford.</hi>
+            </p>
+            <p>
+               <hi>June</hi> 7. Journals read: Meſſage from the Commons for a Conference about Exceptions to the alterations made in the Bill of Repeal; four Lords appointed to meet them immediately in the Chamber over the Lords Houſe; the Lords ordered only to hear their Objections, and report them, which they did accordingly. The Order againſt waſte and ſpoiling Improvements, read, and approved: Lord <hi>Riverſtown</hi> moves, that Conſtables and Sheriffs might have power to commit the Poſſeſſor that made any waſte; Judges Opinions asked, all againſt it, and the Houſe agrees with them.</p>
+            <p>
+               <hi>June</hi> 8. The Houſe of Commons deſire to withdraw their Impeachment againſt Judge <hi>Daly,</hi> having accepted his Submiſſion, which was granted: A preſent Conference deſired by the Lords upon the ſubject of the Laſt Confe<g ref="char:EOLhyphen"/>rence, wherein the Lords of the Committee report what they agree, and what they inſiſt on, together with the Rea<g ref="char:EOLhyphen"/>ſons why they inſiſt on them.</p>
+            <p>
+               <hi>June</hi> 10. Journals of the laſt day read: A Petition of <hi>Bridges</hi> read, concerning his being turned out of poſſeſſion by the Proprietor; the Houſe would do nothing in it; the reſt of the Morning ſpent in diſcourſe.</p>
+            <p>
+               <hi>June</hi> 11. A Free Conference between the two Houſes concerning the Bill of Repeal; the Commons inſiſt on two things; 1ſt, That the preſent Poſſeſſors may have time to remove till <hi>May</hi> next: 2dly, That all Remainders may be forfeited, and veſted in the King; Journals read.</p>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:151578:6"/>
+            <head>THE JOURNALS OF THE HOUSE of LORDS.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>J<g ref="char:V">Ʋ</g>NE</hi> 12. 1689.</date>
+               </dateline>
+            </opener>
+            <p>JOurnals Read. Lords of the Committee report the Conference Yeſterday to the Houſe. Commons Reaſons debated, and upon the whole, the Lords agree with them to the firſt, and the Commons con<g ref="char:EOLhyphen"/>deſcend in the buſineſs of Remainders.</p>
+            <p>
+               <hi>June</hi> 13. C. J. <hi>Nugent</hi> Reports to the Houſe from the Committee of Petitions ſeveral things. The Bill for ad<g ref="char:EOLhyphen"/>ding and diminiſhing the Duties on Forreign Commo<g ref="char:EOLhyphen"/>dities, and alterations in it read twice. A Bill for Liber<g ref="char:EOLhyphen"/>ty of Conſcience brought up from the Commons and read once.</p>
+            <p>
+               <hi>June</hi> 14. The Journals Read. Speaker moves that the Bill for Liberty of Conſcience may be laid aſide for ſome time, and that the Houſe would diſpatch, for the King muſt ſend away his Officers. The Bill for adding and di<g ref="char:EOLhyphen"/>miniſhing Duties on Forreign Commodities ſent up to the Houſe without Alteration; the meaning of this Bill is to enable the King to enhance or diminiſh Duties on ſuch Commodities as he thinks fit: At the ſame time three more Bills were ſent up, one for taking off incapa<g ref="char:EOLhyphen"/>cities from the <hi>Iriſh</hi> Natives; another for Repealing the Proviſion for Miniſters in Corporate Towns; the third for Regulating the Tithing Table of <hi>
+                  <g ref="char:V">Ʋ</g>lſter:</hi> each of
+<pb n="4" facs="tcp:151578:7"/>theſe read twice, and committed. In the Afternoon the Committee ſits and reads the Bill againſt the Proviſion of Miniſters and agrees to it; the B. of <hi>Meath,</hi> B. <hi>Cork,</hi> B. <hi>Limerich,</hi> and E. <hi>Longford</hi> diſſent.</p>
+            <p>
+               <hi>June</hi> 15. Journals read. Bill for taking off incapacities from Natives, read twice, and paſſed <hi>nemine contradicente:</hi> the meaning of this Bill is, that ſome Statutes diſabled Natives to be Lords-Juſtices, School-maſters, <hi>&amp;c.</hi> which is now repealed.</p>
+            <p>
+               <hi>June</hi> 17. Bill of Repeal with all its Additions and Al<g ref="char:EOLhyphen"/>terations ſent up, Ingroſſed from the Commons, and read thrice; Queſtion put, Conſent or not, B. of <hi>Meath, Cork, Oſſory,</hi> and E. <hi>Longford</hi> diſſent. Petitions read, and a Bill brought in by <hi>Talbot</hi> concerning his Rent for the Water<g ref="char:EOLhyphen"/>courſe, read twice and committed. A new Bill for Liberty of Conſcience offered to the Houſe by C. J. <hi>Nugent,</hi> read once, and committed, the King ſaying that the firſt Bill for Liberty of Conſcience was more ſevere againſt the Church of <hi>England</hi> than he intended. After the Houſe roſe, the King comes to the B. of <hi>Meath,</hi> and tells him that he did not like the Commons Bill againſt Liberty of Conſcience, that it diminiſht his Prerogative, and deſign'd to make him break his word with our Church, that he intended not to take down the Acts of Uniformity, nor deſtroy our Re<g ref="char:EOLhyphen"/>ligion, but only to take away the Penalties that were a<g ref="char:EOLhyphen"/>gainſt Liberty. The bottom of this Intreague was from C. J. <hi>Herb.</hi> who plainly foreſaw, that this would abſolutely loſe the King all his Proteſtant Friends in <hi>England,</hi> as be<g ref="char:EOLhyphen"/>ing directly contrary to all his Promiſes, and upon this ac<g ref="char:EOLhyphen"/>count ingaged the <hi>French</hi> Ambaſſadour to be againſt it, or elſe it had certainly paſt. But the work is done effectually by other Bills, and the Act of Uniformity, will ſtand like the Edict of <hi>Nants,</hi> till there be no occaſion for it. At 4 in the Afternoon the Committee meets and conſiders the Bill for Liberty of Conſcience, and the Tithing Table of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> and makes Alterations in them.</p>
+            <pb n="5" facs="tcp:151578:7"/>
+            <p>
+               <hi>June</hi> 18. Four Bills ſent up from the Commons, one for inviting Forreigners to trade here, ſent up with alterations, upon which a preſent Conference is deſired by the Lords; they inſiſt on this clauſe, <hi>and the Subjects of the moſt Chri<g ref="char:EOLhyphen"/>ſtian King;</hi> Lords againſt theſe words, becauſe they were to the prejudice of the <hi>French</hi> King. 2 <hi>d.</hi> A Bill for the diſpoſing of Inteſtates Goods. 2 <hi>d.</hi> For the continuing a for<g ref="char:EOLhyphen"/>mer Statute made for preventing Delays and Executions, and Writs of Errour. 4th. For taking away the benefit of Clergy for two years; each of theſe Bills read once, and or<g ref="char:EOLhyphen"/>dered to be read again next Morning. The Clergy of <hi>Dub<g ref="char:EOLhyphen"/>lins</hi> Petition read. The new Bill for Liberty of Conſcience fram'd in the Lord's Houſe, read twice with its amendments, and order'd to be Ingroſs'd. At Four in the Afternoon the Committee meets about Mrs. <hi>Walls</hi> buſineſs, and hears the Proofs for her Marriage. A Bill brought in by C. J. <hi>Nu<g ref="char:EOLhyphen"/>gent</hi> againſt keeping <hi>Octob.</hi> 23.</p>
+            <p>
+               <hi>June</hi> 19. Journals read, Clergy of <hi>Dublin</hi> about their Proviſion heard at the Bar; Conference with the Houſe of Commons order'd on it, but after alter'd. A Bill for Sub<g ref="char:EOLhyphen"/>ſidies brought up by the Commons, read thrice and paſſed; it grants the King 20000 <hi>l. per</hi> Month, for 13 Months to be paid by Tenants, and allowed by Landlords out of their Rents. The new Bill for Liberty of Conſcience, together with their own ſent to the Commons. Committee ſits about <hi>Walls</hi> buſineſs.</p>
+            <p>
+               <hi>June</hi> 20. Clergy of <hi>Dublin</hi> conſider'd, and the Bill read twice and paſſed. Four Biſhops diſſent, and ſix Lords, ſome of them Papiſts. Three Bills read twice, and paſſed <hi>nemine contradicente, (viz.)</hi> 1ſt, For Martial Law; 2 <hi>d,</hi> For Prevent<g ref="char:EOLhyphen"/>ing Delays in Executions; 3 <hi>d,</hi> For taking away the Bene<g ref="char:EOLhyphen"/>fit of Clergy for two Years. The Bill for Repealing the 23 <hi>d</hi> of <hi>October</hi> read twice, and paſſed <hi>nemine contradicente,</hi> except B. of <hi>Meath.</hi> The Bill about Inteſtates Goods read, and committed. In the Afternoon the Committee ſits a<g ref="char:EOLhyphen"/>bout
+<pb n="6" facs="tcp:151578:8"/>
+               <hi>Walls</hi> buſineſs, and the Bill of Inteſtates Goods. A Bill paſſed in the morning for regulating the Tithing Table of <hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> all the Biſhops diſſent from it, and pray leave to enter their diſſent to that, and the Bill repealing the Pro<g ref="char:EOLhyphen"/>viſion for Miniſters in Cities, which was granted, and the next morning they bring in their diſſent to the Clerk in Writing. After the Houſe was Adjourned, the Biſhop of <hi>Meath</hi> asks his Majeſty whether the Clauſe in the Bills, <hi>(viz.) By and with the advice and conſent of the Lords Spiritual,</hi> ſhould not be expung'd, where the Biſhops did not conſent, the King ſaith no, for they were only to enter their Diſſent, but the ſtile of the Bills muſt not be alter'd.</p>
+            <div type="minutes">
+               <head>Minutes of the HOUSE of COMMONS.</head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>J<g ref="char:V">Ʋ</g>NE</hi> 21. 1689.</date>
+                  </dateline>
+               </opener>
+               <p>AN Act for Repealing the 23d of <hi>October</hi> 41, ſent to us by the Lords, read and paſſed; and the Bill for Liberty of Conſcience ingroſſed and read, as it came from the Lords, which is quite different from the Bill ſent up to them; move to throw it out, it being a different Bill from what firſt paſs'd the Houſe, and therefore ought to be laid aſide, but not being ſeconded, it was paſſed, and theſe two Bills, together with a Bill againſt Parrol Wills, <hi>&amp;c.</hi> and a Bill to repeal the Unions of Pariſhes, <hi>&amp;c.</hi> A Bill for <hi>R. C.</hi> to pay their Tithes to their own Clergy. A Bill for Encouraging of Trades <hi>&amp;c.</hi> were ſent up to the Lords by Mr. <hi>Stafford,</hi> and a Committee of ſeveral of the Houſe went up with them.</p>
+               <p>The Report read for repealing <hi>Poinings</hi> Statutes, and told us the King would have a Clauſe, that he and his Heirs ſhould have the Bill firſt agreed to by him and his
+<pb n="7" facs="tcp:151578:8"/>Councel before they ſhould paſs the Commons, and its or<g ref="char:EOLhyphen"/>dered to be recommitted, and the Houſe inclined to be as free as the Parliaments of <hi>England.</hi> Several private Peti<g ref="char:EOLhyphen"/>tions read and referred, and told us the King would paſs the Royal Aſſent to the Bill of Repeal to morrow.</p>
+               <p>
+                  <hi>June</hi> 22. Mr. <hi>Poolwhiles</hi> Petition read, to be repriſed for a Debt, pretended he had Outlaw'd one, and gotten a <hi>Cuſtodium,</hi> whoſe Eſtate was to be given to the old Pro<g ref="char:EOLhyphen"/>priator, and deſired a particular Clauſe for his Caſe; after Argument, put to the Vote and carried he ſhould be re<g ref="char:EOLhyphen"/>prized. After which, it was moved that all Caſes of the like nature ſhould be repriſable, and the Speaker made an<g ref="char:EOLhyphen"/>ſwer, it was a Motion of Vexation; to which the Party anſwered, it was but common juſtice, but none ſeconding the ſaid Motion, it fell. The Houſe was ſent for by the Black Rod, the King and Lords being in their Robes, the Speaker attended, and made a Speech, in which he declared what Act they deſired his Majeſty to paſs, to wit, An Act of Supply for 260000 <hi>l.</hi> to be raiſed in 13 Months. An Act to repeal the Act of Settlement and Explanation, <hi>&amp;c.</hi> And an Act of Liberty of Conſcience, with Eight ſeveral other Acts; to which the King anſwered, <hi>Le Roy le voilt,</hi> and ſo they paſs'd. After the Commons reaſſumed their Houſe, a Speech was made in behalf of the Speaker, to be con<g ref="char:EOLhyphen"/>ſider'd for his Service; and alſo one for the Lord <hi>Mont Caſſel,</hi> and a Committee appointed to conſider and re<g ref="char:EOLhyphen"/>port the ſame.</p>
+               <p>
+                  <hi>June</hi> 25. This day moved, that my Lord <hi>Mount Caſſel,</hi> and Lord Chancellor, Lord Chief Baron, and Sir <hi>William Talbot</hi> with others, ſhould be provided for as Meriting Perſons, and Voted that none but the Speaker and Offi<g ref="char:EOLhyphen"/>cers of the Houſe ſhould be conſidered as ſuch.</p>
+               <p>The Liſt of the People to be attainted, read for <hi>Linſter,</hi> moved in the behalf of <hi>John Weaver,</hi> that he ſhould not be Attainted. Collonel <hi>Barret</hi> deſired that thoſe Members
+<pb n="8" facs="tcp:151578:9"/>that moved for ſuch ill men ſhould be turned out of the Houſe, but checked by the Speaker. This day Sir <hi>John Temple</hi> made a Capital-man in the Liſt of Attainders.</p>
+               <p>
+                  <hi>June</hi> 26. This day the Liſt of Attainders was read for the County and City of <hi>Dublin,</hi> and Sir <hi>Joſhua Allen</hi> to be attainted, and Sir <hi>Henry Bond</hi> and Sir <hi>Patrick Trent</hi> Examined about him. <hi>Coffee</hi> appears at the Summons of Mr. <hi>Talbot,</hi> and ordered to appear to morrow. Sir <hi>Thomas Southwell</hi> and others attainted by Jury, are to be attain<g ref="char:EOLhyphen"/>ted by name in the Liſt.</p>
+               <p>
+                  <hi>June</hi> 27. This day the report about the Bill for giving Abſenters Goods to the King, read twice, and moved that it was unreaſonable to give his Majeſties Commiſſioners of the Revenue a power to ſeiſe any ones Perſon for having Abſenters Goods, againſt whom no other Evidence was gi<g ref="char:EOLhyphen"/>ven than a ſingle Oath; but not being ſeconded, was or<g ref="char:EOLhyphen"/>dered to be ingroſſed, and ſaid by the Speaker it was only for delay. 'Twas moved likewiſe by Mr. <hi>L.</hi> that my Lord <hi>Mount Caſſel</hi> ſhould have the thanks of the Houſe, and Addreſſed for to the King for his Service, and after great Debate, laid aſide, leaſt it ſhould leſſen <hi>D. T</hi>'s. for whom the Houſe had done the like before, after which they went on the Liſt of Attainders.</p>
+               <p>
+                  <hi>June</hi> 28. An Act about the City matters ſent us by the Lords. An Act to inforce Martial Law amongſt Soldiers, ſent us by the Lords; and likewiſe an account that they agreed with us in two other Acts; we ſent them concern<g ref="char:EOLhyphen"/>ing diſuniting of Unions, after the Liſt of Attainders read for <hi>Munſter</hi> and ſome part of <hi>Connaght.</hi>
+               </p>
+               <p>
+                  <hi>June</hi> 29. The Bill about the City Water read, the Houſe not being in number Forty Five. The Bill about Abſenters Goods Ingroſſed and Read, and moved to be caſt out, and ſeconded; the Speaker violently oppoſed it, but paſt after the Liſt for <hi>
+                     <g ref="char:V">Ʋ</g>lster</hi> read of Attainders.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="table">
+            <pb n="11" facs="tcp:151578:9"/>
+            <head>ESTABLISHMENT <hi>MAY,</hi> 1689.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>p. diem</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>p. menſ.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Men</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>½—</cell>
+                     <cell>16 3—</cell>
+                     <cell>1 Troop of Granadeers contains</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>½—</cell>
+                     <cell>16 3—</cell>
+                     <cell>7 Regiments of Horſe contain</cell>
+                     <cell>2750</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>¼—</cell>
+                     <cell>13 1 ½—</cell>
+                     <cell>7 Regiments of Dragoons contain</cell>
+                     <cell>3800</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>The Royal Reg. contains 22 Comp. 90 in each Comp.</cell>
+                     <cell>1980</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>10—</cell>
+                     <cell>42 Reg. of Foot, 13 Comp. 62 men each</cell>
+                     <cell>33852</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">Total</cell>
+                     <cell role="total">42432</cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>Deductions</head>
+               <item>3 <hi>d.</hi>
+                  <hi>per Pound</hi> for the Hoſpital, from all Soldiers and Officers.</item>
+               <item>1 <hi>d.</hi>
+                  <hi>per diem</hi> for the Cloaths, ½ for Shooes, and ½ for Cloaths: <hi>Foot.</hi>
+               </item>
+               <item>1 ¼ <hi>per diem</hi> from Dragoons, ½ for Furniture, ¾ for Horſes: <hi>Dragoons.</hi>
+               </item>
+               <item>1 ½ <hi>p. diem</hi> from Troopers, ½ to the Captain for Furniture, 1 <hi>d.</hi> for the Clerk. <hi>Horſe.</hi>
+               </item>
+            </list>
+            <list>
+               <head>HORSE. 7 Reg.</head>
+               <item>
+                  <hi>Duke of</hi> Tyrconnel.</item>
+               <item>
+                  <hi>Lord</hi> Galmoy.</item>
+               <item>
+                  <hi>Coll.</hi> Sarsfield.</item>
+               <item>
+                  <hi>Coll.</hi> Southerland.</item>
+               <item>
+                  <hi>Lord</hi> Abercorne.</item>
+               <item>
+                  <hi>Coll.</hi> H. Luttrel.</item>
+               <item>
+                  <hi>Coll.</hi> Parker.</item>
+            </list>
+            <list>
+               <head>DRAGOONS. 7 Reg.</head>
+               <item>
+                  <hi>Lord</hi> Dungan.</item>
+               <item>
+                  <hi>Sir</hi> Neil O Neil.</item>
+               <item>
+                  <hi>Coll.</hi> Dan. O Brien.</item>
+               <item>
+                  <hi>Coll.</hi> Nich. Purcell.</item>
+               <item>
+                  <hi>Coll.</hi> Clifford.</item>
+               <item>
+                  <hi>Sir</hi> James Cotter.</item>
+               <item>
+                  <hi>Coll.</hi> Simon Luttrel.</item>
+            </list>
+            <pb n="12" facs="tcp:151578:10"/>
+            <list>
+               <head>FOOT 42 Regiments.</head>
+               <item>
+                  <hi>Col.</hi> John Hamilton Ramſey.</item>
+               <item>
+                  <hi>Earl of</hi> Clancarty.</item>
+               <item>
+                  <hi>Col.</hi> Ant. Hamilton</item>
+               <item>
+                  <hi>Earl of</hi> Clanricard</item>
+               <item>
+                  <hi>Earl of</hi> Antrim.</item>
+               <item>
+                  <hi>Lord</hi> Gormanſtown.</item>
+               <item>
+                  <hi>Lord</hi> Clare.</item>
+               <item>
+                  <hi>Lord</hi> Galloway.</item>
+               <item>
+                  <hi>Lord</hi> Slane.</item>
+               <item>
+                  <hi>Lord</hi> Lowth.</item>
+               <item>
+                  <hi>Lord</hi> Duleek,</item>
+               <item>
+                  <hi>Monſieur</hi> Boiſlon.</item>
+               <item>
+                  <hi>Sir</hi> Val. Brown.</item>
+               <item>
+                  <hi>Sir</hi> John Fitzgerald.</item>
+               <item>
+                  <hi>Sir</hi> Maur. Euſlaw.</item>
+               <item>
+                  <hi>Col.</hi> Wil. Nugent.</item>
+               <item>
+                  <hi>Col.</hi> H. Dillon.</item>
+               <item>
+                  <hi>Col.</hi> John Grace.</item>
+               <item>
+                  <hi>Col.</hi> Rich. Butler.</item>
+               <item>
+                  <hi>Col.</hi> Edw. Butler.</item>
+               <item>
+                  <hi>Col.</hi> Walter Butler.</item>
+               <item>
+                  <hi>Col.</hi> John Bourk.</item>
+               <item>
+                  <hi>Col.</hi> Char. Moore,</item>
+               <item>
+                  <hi>Col.</hi> Corn. O Neil.</item>
+               <item>
+                  <hi>Col.</hi> Cavenagh.</item>
+               <item>
+                  <hi>Col.</hi> Gordon O Neil.</item>
+               <item>
+                  <hi>Col.</hi> Nich. Brown.</item>
+               <item>
+                  <hi>Sir</hi> Mich. Creagh.</item>
+               <item>
+                  <hi>Col.</hi> Brien Mac Maghon.</item>
+               <item>
+                  <hi>Col.</hi> Tool.</item>
+               <item>
+                  <hi>Col.</hi> Oxbrough.</item>
+               <item>
+                  <hi>Col.</hi> Maccarty Moor.</item>
+               <item>
+                  <hi>Col.</hi> Barret.</item>
+               <item>
+                  <hi>Col.</hi> Farrel.</item>
+               <item>
+                  <hi>Col.</hi> Bagnall.</item>
+               <item>
+                  <hi>Lord</hi> Bagnall.</item>
+               <item>
+                  <hi>Lord</hi> Tyrone.</item>
+               <item>
+                  <hi>Col.</hi> Cha. O Brien.</item>
+               <item>
+                  <hi>Lord</hi> Iveagh.</item>
+               <item>
+                  <hi>Col.</hi> O Donavan.</item>
+               <item>
+                  <hi>Col.</hi> Dom. Brown.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:151578:10"/>
+            <head>A Letter from <hi>D<g ref="char:V">Ʋ</g>BLIN, June</hi> the 12th, 1689.</head>
+            <p>
+               <hi>I</hi> For ſome particular reaſons, reſolved not to write to you any more, eſpecially being uncertain whe<g ref="char:EOLhyphen"/>ther you received my former, or if you did, whether they were of any uſe; but the particular reaſon of my not writing, being partly ceaſed, I conſider it is no great matter if I loſe my pains. I hope to ſend you an Abſtract of what has been done in the Houſe of Lords and Commons, having a promiſe of ſuch an Account from thoſe that know them. We have had three Expreſſes from <hi>England; John Browne</hi> the Lawyer came over about a Fortnight ago from <hi>Mill<g ref="char:EOLhyphen"/>ford,</hi> and landed at <hi>Waterford;</hi> Sir <hi>J</hi>— <hi>C</hi>—'s Son came in a Wherry, and landed about <hi>Wickloe,</hi> but that which was most material, was from the Lord <hi>M.</hi> by ſome Quakers that came last Week hither in a Wher<g ref="char:EOLhyphen"/>ry; ſome the like went yeſterday back to you, we have ſeveral Expreſſes ſent over to you that way; and a ſtrict Imbargo, least any ſhould follow and diſcover them. You must not expect the ſecret of their Meſſa<g ref="char:EOLhyphen"/>ges from me, only 'tis reported, that <hi>John Browne</hi> brought no Letters with him, but come over with a de<g ref="char:EOLhyphen"/>ſign to ſave his Iron-works from the new Proprietors: I hear that upon his Petition to the Parliament, the Poſſeſſion is ſecured to him by a Proviſo, he paying Rent: He reports that <hi>England</hi> is unanimous, and that we must expect an Invaſion by the next Eaſterly Wind: The Quakers and <hi>Crosby</hi> talk likewiſe of an Invaſion, but repreſent the People of <hi>England</hi> as diſ<g ref="char:EOLhyphen"/>ſatisfied.
+<pb n="14" facs="tcp:151578:11"/>I find there is ſtill an expectation and de<g ref="char:EOLhyphen"/>pendance on <hi>Scotland,</hi> tho' not ſo ſtrong as at first: we talk very confidently of a Fleet and fifteen Thou<g ref="char:EOLhyphen"/>ſand Fuſileers from <hi>France;</hi> the <hi>French</hi> Fleet to con<g ref="char:EOLhyphen"/>ſist of eighty Men of War: I verily believe, there is ſomething in it, without ſome ſuch Aid, <hi>Ireland</hi> does appear but an eaſie Conquest which is not the <hi>French</hi> Interest. The miſery of this Town is very great, ſome being little better than Dragoon'd by the Quartering of Souldiers; ſome have ten, ſome twelve, ſome twenty or thirty quarter'd on them; and yet I cannot find, that beſides what came in to day, there were above three thouſand and odd Men in Town; but the rea<g ref="char:EOLhyphen"/>ſon is plain, each man has many Quarters, and ſome Captains make thirty or forty Shillings a Week by them; they come in by twelve, one, or two of the Clock by night, to demand Quarters, and turn people out of their Beds, beat, wound, and ſometimes rob them: There are two or three hundred Prieſts in Town, and they are quarter'd likewiſe as the Souldiers; and ſo are generally Noblemen and Gentlemen, with their Retinue, tho' not actually in the Army. I have ſent you the new Eſtabliſhment of the Forces, only I think four Regiments of Horſe, and ſome of Dragoons are not yet raiſed. I hear all thoſe People call'd Rapperees, or Half-Pike-men, are to be muſter'd and arm'd; Commiſſions are ſigning for all that can bear Arms in the Kingdom. Duke of <hi>Tyrconnel</hi> disbanded <hi>2000</hi> a few Weeks ago, which are all entertained again, or at least as many as will come in; but we are most ſtrangly uncertain in all our Counſels, which is viſible not only in this, but in every thing elſe: One day the Camp near <hi>Dublin</hi> is to go on, and they work cloſe at it, then it is intermitted and laid aſide: one day we
+<pb n="15" facs="tcp:151578:11"/>are to go into <hi>England,</hi> and ſend a Declaration be<g ref="char:EOLhyphen"/>fore us, and to be reſtored; another day we are fright<g ref="char:EOLhyphen"/>ned with a ramour of an Army landing out of <hi>England;</hi> to drive us out of all; yet the King ſeems very well contented, and pleaſant, he ſleeps, eats, and is in bet<g ref="char:EOLhyphen"/>ter health than uſual. <hi>Tueſday</hi> the 4th inſtant, we had an Alarum that <hi>Derry</hi> was burnt with Bombs, that the King's Army had taken it, and put all in it to the Sword; <hi>Nugent</hi> of <hi>Carlandſtown</hi> brought this News into the Houſe of Commons, just when they were putting to the Vote, whether they ſhould proſecute the Impeachment against <hi>Judge Dally;</hi> ſome think <hi>Nu<g ref="char:EOLhyphen"/>gent</hi> being his Friend, did it deſignedly; the News was received with loud Huzza's, and in that good and jolly humour they acquitted the Judge: But our <hi>Fri<g ref="char:EOLhyphen"/>day's</hi> Expreſs brought us another account, which was, That the King's Forces had endeavoured to regain the <hi>Wind-Mill-hill,</hi> out of which they had been beaten by the Sally when <hi>Ramſey</hi> the King's General was kill'd, but that they were beaten off with great loſs; this was on <hi>Tueſday,</hi> and by computation, about the ſame time the Huzza was made in the Houſe of Commons. Col <hi>Dor<g ref="char:EOLhyphen"/>rington</hi> and Col. <hi>Nugent,</hi> two of the briskest Officers of the King's Army, are deſperately wounded, if not dead. 'Tis reported, that ſeven Field. Officers were killed or taken, and about thirty other Officers. We have no certain account of the Souldiers, the best ac<g ref="char:EOLhyphen"/>count ſays, three hundred fell: 'Tis ſaid they run a<g ref="char:EOLhyphen"/>way, and left their Officers in the lurch. I am promi<g ref="char:EOLhyphen"/>ſed a List of the Officers that were killed: It is ſaid that there are not above five thouſand in the King's Camp at <hi>Derry,</hi> notwithſtanding all that have gone down, a great many having run away as ſoon as they had loaded themſelves with Plunder, and above two thou<g ref="char:EOLhyphen"/>ſand
+<pb n="16" facs="tcp:151578:12"/>ſand being killed or dead ſince their first going down; they ſhake and tremble ſo when they come to Charge, that they cannot fire; they that have March locks can<g ref="char:EOLhyphen"/>not be brought by any means to Diſcipline, or to uſe them aright; this I have from a good hand. We bear that ſome <hi>Engliſh</hi> Ships are in the <hi>Lough</hi> of <hi>Derry,</hi> a Boom with Trees and Maſts is made croſs the River at <hi>Culmore</hi> Fort, to hinder any Succours, that a Ship who attempted to get up is ſtranded. I believe their greatest want in <hi>Derry</hi> is Firing, and Coals will be a very pretious Commodity with them; and I believe in a little while they will want. Cloaths for wearing, and Drink. They talk if old Sir <hi>Charles Coot</hi> were alive, and had but a thouſand Horſe, to the Foot that are in the Town, he would not fail to fight the King's Army in the Field. About the be<g ref="char:EOLhyphen"/>ginning of this Month, a Party of Horſe and Foot from <hi>Enniskilling,</hi> made an Inroad into the County of <hi>Cavan,</hi> they drove all the Cattle of the County, they did not ſpare Proteſtants who were under Protection, only ſuch as would go with them, they help'd away with their Bag and Baggage, thoſe that would not go, were forst to part with all to them; which they ſaid they did, least the King's Forces ſhould make a Prey of them: they took all Proviſion, Horſes, and Arms they could meet with; they diſarm'd ſome of the King's Forces that lay at <hi>Belturbeit, Bally-Carrig,</hi> and elſe<g ref="char:EOLhyphen"/>where; they burnt only ſuch places as were of ſtrength, and capable of being garriſon'd; they kill'd none; they came as far as <hi>Finagh</hi> and <hi>Virginia,</hi> which you'll find in the Mapps: The Party is ſaid to have been two Thouſand; we were alarum'd at this here, and Gene<g ref="char:EOLhyphen"/>ral Monſieur <hi>Roſen</hi> went down to <hi>Trim</hi> with four Field-Pieces, and ſeveral Regiments, amongst the reſt the
+<pb n="17" facs="tcp:151578:12"/>Lord-Mayor's of <hi>Dublin,</hi> who led his men himſelf; twelve Regiments I hear were deſign'd; I hear the Bullets both for the Field-Pieces and Muskets were found to have been too big; which made General <hi>Ro<g ref="char:EOLhyphen"/>ſen</hi> ſtorm horribly: Since the Defeat at <hi>Derry,</hi> I hear he and the Forces deſigned for <hi>Enniskilling,</hi> are com<g ref="char:EOLhyphen"/>manded to <hi>Derry;</hi> two of the Field-Peices are come back. General <hi>Hamilton</hi> is ſuſpected and rail'd at by the Commonalty; but I do not believe that there is any ground for it, or that the King does entertain any thoughts of it. It is reported from good hands, that the People of <hi>Enniskilling</hi> have made up their Horſe near <hi>1500,</hi> and their Foot near <hi>6000;</hi> a Party ſo con<g ref="char:EOLhyphen"/>ſiderable, that it is fear'd, <hi>England</hi> may think it ſelf concerned to ſave them by haſtening their Invaſion, if they intend any. There are many Diſcontents among the <hi>Roman</hi> Catholicks about the Acts of Settlement, and the <hi>French,</hi> for the Natives look very ſuſpiciouſly on them, and many do publickly ſay, that they are ſold to the <hi>French;</hi> at leaſt, that Cautionary Towns are to be given them. If an Army ſhould Invade us before theſe Diſcontents are quieted, 'tis to be fear'd, that they would ſoon gain the Submiſſion of a conſiderable Party of the <hi>Roman</hi> Catholicks upon good terms; and per<g ref="char:EOLhyphen"/>haps if their help were accepted, would joyn to drive out the <hi>French:</hi> but <hi>England</hi> is ſo exceedingly ſlow, that it is believed they will loſe the hearts of all, and even ſuch as wiſh it well, will not think it ſafe to depend on it. 'Tis obſerved, that putting <hi>French</hi> Officers in the place of the <hi>Iriſh</hi> who rais'd the Men, cauſes great diſcontents, many of the common Souldiers run away from their Colours upon it. Several Proteſtant Gentlemen in the <hi>North</hi> had Commiſſions from the P. and have fairly run away with them into <hi>England,</hi> or
+<pb n="18" facs="tcp:151578:13"/>come to <hi>Dublin</hi> upon Protection or pardon; but the Country People have choſen Commanders for them<g ref="char:EOLhyphen"/>ſelves into Trorps and Companies: of this ſort are ge<g ref="char:EOLhyphen"/>nerally thoſe in <hi>Derry</hi> and <hi>Enniskilling;</hi> they all ex<g ref="char:EOLhyphen"/>ſpect to be continued in the Commiſſions they have gi<g ref="char:EOLhyphen"/>ven themſelves, when any Army comes out of <hi>England:</hi> and the hope of this, 'tis believed makes them obſtinate to all offers from the King; They ſay, the Gentlemen that left them, deſerve no countenance at all, but ra<g ref="char:EOLhyphen"/>ther, that ſome part of their Eſtates that went away, ſhould be given as a Reward to ſuch as ſtaid and de<g ref="char:EOLhyphen"/>fended them. <hi>June</hi> the 13th, to day the Houſe of Commons agreed to the Amendments made by the Houſe of Iords, to the Bill of Repeal, ſo that affair is over, and wants only the Royal Aſſent. An Expreſs came in from <hi>Cavan,</hi> which gives us this account: That General <hi>Roſen</hi> had order'd the Sherriff of that County to make a kind of a Magazine of Corn and o<g ref="char:EOLhyphen"/>ther Proviſions, in the Town of <hi>Cavan,</hi> to ſupply the King's Army in their March to <hi>Enniskilling,</hi> and had appointed two Companies to guard it, and that a Par<g ref="char:EOLhyphen"/>ty from <hi>Enniskilling</hi> had ſurpriz'd the Guards, and taken it: <hi>Enniskilling</hi> People are certainly there, but whether they took the Men, is a doubt, but the Pro<g ref="char:EOLhyphen"/>viſion is certainly taken. It is ſaid there is now in <hi>Dublin</hi> nine Regiments of Foot, and eight more are expected; many of them are raw, and never handled Arms; there are about two Troops of Horſe, I can't learn whoſe Regiments they are: You may wonder I can't give an exact account of what men are in <hi>Dublin,</hi> but the reaſon is, their frequent removals, ſometimes in one day three Regiments will come to Town, and two go out; ſometimes thoſe that are expected in Town
+<pb n="19" facs="tcp:151578:13"/>will be countermanded within ſix or ſeven Miles; they often come in and go out by night, and every thing is ſo chang'd and hudled, that it is impoſſible to give a<g ref="char:EOLhyphen"/>ny good account. We do not confide much in theſe men, tho' the whole ſeventeen Regiments expected were with us, becauſe they are very raw and undiſciplin'd. There is a general Preſs for all Horſes, without ex<g ref="char:EOLhyphen"/>ception of Papiſts, who had favour before, but there muſt be no diſtinction, the occaſion being very urgent; for the King is ſaid not to have above a <hi>1000</hi> good Horſe in all the Army, most of which are in the <hi>North.</hi> The miſerable uſage in the Country is unſpeakable, and every day like to be worſe and worſe; many alledge, that the Rapperees have ſecret Orders to fall a new on the Proteſtants that have any thing left; the ground of this may be their pretending ſuch an Order, for they commonly pretend an order for any Miſchief they have a mind to: You have had my ſence of this matter be<g ref="char:EOLhyphen"/>fore; <hi>Corke</hi> is most vilely abuſed by their M. Gover<g ref="char:EOLhyphen"/>nour <hi>Boyſloe.</hi> The Bill for Liberty of Conſcience is come to the Houſe of Lords; it repeals every Statute made in favour of the Proteſtant religion, and if Law<g ref="char:EOLhyphen"/>yers may be believed, it ſettles Popery as legally as it was in <hi>H. 7th</hi>'s time: You may gueſs from the incloſed Brief, what Authority <hi>Roman</hi> Catholic Biſhops will claim over Proteſtants. The Commiſſioners have ſei<g ref="char:EOLhyphen"/>zed all Goods of Abſenters, and are actually diſpoſing of them: It is reported, that they are about procuring an Act of Parliament to put Penalties and Oaths up<g ref="char:EOLhyphen"/>on the Concealers of any of them, and to Indemnifie themſelves for their Proceeding hitherto; which the Proteſtants reckon Plundering, and ſay is against all Law: The ſame Commiſſioners ſet Leaſes of all Ab<g ref="char:EOLhyphen"/>ſenters Eſtates, tho' no legal Inquiſition is yet past on
+<pb n="20" facs="tcp:151578:14" rendition="simple:additions"/>them; ſome ſay that they ſet even Eſtates of ſuch as are in the Kingdom, upon preſumption that they will find ſome way or other to intitle the King to them: one way is, to get two or three named Commiſſioners, who ſlip into ſome blind Ale-houſe, and privately find a Title for the King, by returning, that the Poſſeſſors are abſent or Rebels, tho' they live then upon the Lands, or are in the Courts of <hi>Dublin,</hi> and all this without a<g ref="char:EOLhyphen"/>ny Summons to the Parties concerned, or Poſſeſſors, or Oaths of Jurors; all this is ſaid, and further, that ſeveral of thoſe have come to inform the Commiſſioners how they have been abuſed, but can't yet get admit<g ref="char:EOLhyphen"/>tance, the Commiſſioners are ſo buſie ſetting Leaſes. The Biſhop of <hi>Corke</hi>'s Caſe, which you will find in the Votes, and wherein the Parliament refuſed him Re<g ref="char:EOLhyphen"/>dreſs, was this: Several of his Tenants owed him ar<g ref="char:EOLhyphen"/>rears of Rent, the King ſeiz'd upon their Goods becauſe they were abſent; he deſires to be paid his Arrears out of the Goods found on the Lands, which he deſired leave to Diſtrain on; but he was told, he must Sue the Tenants on the Covenants of their Ledſés, and re<g ref="char:EOLhyphen"/>cover his Rent as he could This is like to be a Pre<g ref="char:EOLhyphen"/>ſident, and no Creditor, Landlord, or Mortgagee, whoſe Tenant is abſent, is like to get any thing, becauſe the King has ſeiz'd the Goods and Lands which were his Security. I hear likewiſe where the Landlords are abſent, Leſſees are diſturb'd and left to ſeek Redreſs from their abſent Landlords. The Commons. Quarrel to Judge <hi>Dally,</hi> for which they impeached him, was, upon ſome private Diſcourſe he had with Sir <hi>Alick Bourk,</hi> and ſome other Gentlemen, in which he diſap<g ref="char:EOLhyphen"/>prov'd of the Commons Proceedings and ſaid they were a kind of <hi>Maſſanello</hi>'s Aſſembly, and that it could not be expected that men from whom the King took Eſtates, would fight for him or to this effect.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
